@@ -1,6 +1,8 @@
 Lexi ChatBot
 
-[ <!-- You can replace the link with an actual logo URL -->](https://github.com/josemlwdf/media/blob/main/lexi/Lexi_Avatar.jpg)
+<p align="center">
+  <img src="[logo.png](https://github.com/josemlwdf/media/blob/main/lexi/Lexi_Avatar.jpg)" alt="pyrat josemlwdf" width="300" height="300">
+</p>
 📝 Description
 
 Lexi - The Uncensored Chatbot with Smart Filters
