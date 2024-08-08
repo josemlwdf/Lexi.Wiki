@@ -1,7 +1,7 @@
 Lexi ChatBot
 
 <p align="center">
-  <img src="[logo.png](https://github.com/josemlwdf/media/blob/main/lexi/Lexi_Avatar.jpg)" alt="pyrat josemlwdf" width="300" height="300">
+  <img src="/josemlwdf/media/blob/main/lexi/Lexi_Avatar.jpg" alt="Lexi Logo" width="300" height="300">
 </p>
 📝 Description
 
