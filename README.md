@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/josemlwdf/media/blob/main/lexi/Lexi_Avatar.jpg" alt="Lexi Logo" width="300" height="300">
+  <img src="https://github.com/josemlwdf/media/blob/main/lexi/Lexi_Avatar.jpg" alt="Lexi Logo" width="150" height="150">
 </p>
 
 # Lexi ChatBot
