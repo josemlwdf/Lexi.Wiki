@@ -32,14 +32,10 @@ Looking for a chatbot that can answer any question, but still keeps your server 
 ### Installation
 
     Invite Lexi to Your Server:
-    Click here to invite Lexi ChatBot to your server.
+    Click [here](https://discord.com/oauth2/authorize?client_id=1260208823310876765&permissions=1374389795844&integration_type=0&scope=bot+applications.commands) to invite Lexi ChatBot to your server.
 
     Setup:
-    Once Lexi is in your server, use the following command to get started:
-
-    bash
-
-    !lexi-setup
+    Once Lexi is in your server everything is running. It needs nothing else.
 
     Enjoy:
     Start interacting with Lexi right away. Ask questions, chat, and let Lexi take care of keeping your server safe.
@@ -47,13 +43,9 @@ Looking for a chatbot that can answer any question, but still keeps your server 
 ## 🛠️ Commands
 
     General Commands:
-        !lexi-help: Get a list of all commands and their usage.
-        !lexi-ask [question]: Ask Lexi anything.
-        !lexi-report [issue]: Report a bug or an issue to the support team.
-
-    Admin Commands:
-        !lexi-configure [option] [value]: Customize Lexi’s behavior in your server.
-        !lexi-ban [user]: Manually ban a user with inappropriate content.
+        /install: Get the installation link to promote the app.
+        /stats: Display some stats about the usage of Lexi.
+        /support [message]: Opens a support ticket.
 
 ## 🛡️ Safety & Privacy
 
@@ -61,7 +53,7 @@ Lexi is designed to be uncensored yet safe. Our smart filters ensure that harmfu
 
 ## 👥 Support
 
-Need help with Lexi? Join our Support Server or use the !lexi-support command in your server to get in touch with our team.
+Need help with Lexi? Join our [Support Server](https://discord.gg/ywU4WbSU6B) or use the /support command in your server to get in touch with our team.
 
 ## 🤝 Contributing
 
