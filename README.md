@@ -1,11 +1,11 @@
-Lexi ChatBot
+# Lexi ChatBot
 
 <p align="center">
   <img src="https://github.com/josemlwdf/media/blob/main/lexi/Lexi_Avatar.jpg" alt="Lexi Logo" width="300" height="300">
 </p>
-📝 Description
+## 📝 Description
 
-Lexi - The Uncensored Chatbot with Smart Filters
+### Lexi - The Uncensored Chatbot with Smart Filters
 
 Looking for a chatbot that can answer any question, but still keeps your server safe and SFW? Meet Lexi ChatBot! Designed to provide uncensored, intelligent responses while filtering out spam and unwanted content. The app is perfect for servers that value open discussions without compromising on safety.
 ✨ Key Features
@@ -22,13 +22,13 @@ Looking for a chatbot that can answer any question, but still keeps your server 
     [Nice Support]:
     Need help? Lexi has you covered with a dedicated support server and a command specifically for contacting support. We’re here to ensure Lexi works perfectly in your community.
 
-🚀 Getting Started
-Prerequisites
+## 🚀 Getting Started
+### Prerequisites
 
     A Discord server
     Admin permissions on the server
 
-Installation
+### Installation
 
     Invite Lexi to Your Server:
     Click here to invite Lexi ChatBot to your server.
@@ -43,7 +43,7 @@ Installation
     Enjoy:
     Start interacting with Lexi right away. Ask questions, chat, and let Lexi take care of keeping your server safe.
 
-🛠️ Commands
+## 🛠️ Commands
 
     General Commands:
         !lexi-help: Get a list of all commands and their usage.
@@ -54,15 +54,18 @@ Installation
         !lexi-configure [option] [value]: Customize Lexi’s behavior in your server.
         !lexi-ban [user]: Manually ban a user with inappropriate content.
 
-🛡️ Safety & Privacy
+## 🛡️ Safety & Privacy
 
 Lexi is designed to be uncensored yet safe. Our smart filters ensure that harmful content is blocked while maintaining the freedom for users to ask any question. We do not store any personal data from your server.
-👥 Support
+
+## 👥 Support
 
 Need help with Lexi? Join our Support Server or use the !lexi-support command in your server to get in touch with our team.
-🤝 Contributing
+
+## 🤝 Contributing
 
 We welcome contributions! Please read our Contributing Guidelines to get started.
-📝 License
+
+## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
