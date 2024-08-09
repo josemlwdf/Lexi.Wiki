@@ -9,7 +9,8 @@
 ### Lexi - The Uncensored Chatbot with Smart Filters
 
 Looking for a chatbot that can answer any question, but still keeps your server safe and SFW? Meet Lexi ChatBot! Designed to provide uncensored, intelligent responses while filtering out spam and unwanted content. The app is perfect for servers that value open discussions without compromising on safety.
-✨ Key Features
+
+## ✨ Key Features
 
     [Unrestricted Q&A]:
     Get answers to any question, from casual conversations to complex inquiries. Lexi is designed to handle a wide range of topics, making it your go-to bot for any discussion.
