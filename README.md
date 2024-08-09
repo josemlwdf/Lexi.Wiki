@@ -32,7 +32,7 @@ Looking for a chatbot that can answer any question, but still keeps your server 
 ### Installation
 
     Invite Lexi to Your Server:
-    Click [here](https://discord.com/oauth2/authorize?client_id=1260208823310876765&permissions=1374389795844&integration_type=0&scope=bot+applications.commands) to invite Lexi ChatBot to your server.
+  Click [here](https://discord.com/oauth2/authorize?client_id=1260208823310876765&permissions=1374389795844&integration_type=0&scope=bot+applications.commands) to invite Lexi ChatBot to your server.
 
     Setup:
     Once Lexi is in your server everything is running. It needs nothing else.
