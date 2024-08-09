@@ -58,7 +58,7 @@ Need help with Lexi? Join our [Support Server](https://discord.gg/ywU4WbSU6B) or
 
 ## 🤝 Contributing
 
-We welcome contributions! Please read our Contributing Guidelines to get started.
+We welcome contributions! Contribute to the App [here](https://discord.com/application-directory/1260208823310876765/store).
 
 ## 📝 License
 
